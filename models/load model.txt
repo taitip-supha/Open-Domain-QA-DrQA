@@ -1,0 +1,2 @@
+#load mt5_id_m510c_model from gdown '1-FrZqTSygf1Nae6mqT-T23FrO8z0IQEr'
+#load wangchan_m510c_model from gdown '1-V0MDLy__aC3-fa5KfMKscSyST6oCoLg'
